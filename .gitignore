@@ -1,0 +1,6 @@
+node_modules/
+session/*
+!session/.gitkeep
+temp/*
+!temp/.gitkeep
+.trash

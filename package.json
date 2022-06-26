@@ -1,0 +1,23 @@
+{
+  "name": "ws-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Ivan Mercedes <ivanmercede@gmail.com> (http://ivanmercedes.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "sharp": "^0.30.7",
+    "venom-bot": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
